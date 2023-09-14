@@ -31,28 +31,28 @@ const imageAltText = "Code on a computer screen";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Task Management System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A project management tool designed to facilitate efficient task creation, assignment, and tracking within teams. Technologies used: React.js, Express.js, Node.js, MSSQL, Azure.",
+    url: "https://github.com/MuneneCalvin/TaskZen",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Chunkit",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web app project that allows users to upload large CSV or JSON files, split the dataset, save files for later, and see previous file operations performed. Tech Stack: HTML, CSS, Python & Django.",
+    url: "https://your-chunkit-app-url.com",
   },
   {
-    title: "My Resume Site",
+    title: "Personal Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " A personal website to showcase my skills and experience. Tech Stack: HTML, CSS, JavaScript.",
+    url: "https://munenecal.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "E-Commerce Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " A website that allows users to buy and sell products. Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL Stripe-payment.",
+    url: "https://github.com/MuneneCalvin/NexGenShop",
   },
 ];
 
