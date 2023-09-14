@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "E-Commerce Website",
     description:
-      " A website that allows users to buy and sell products. Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL Stripe-payment.",
+      " A website that allows users to buy and sell products. Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL & Stripe-payment.",
     url: "https://github.com/MuneneCalvin/NexGenShop",
   },
 ];
